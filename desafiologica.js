@@ -17,5 +17,5 @@ if(XPHeroi <1000){
 } else if ((XPHeroi >9000) && (XPHeroi <=10000)) {
   console.log ("A heroína é " + nomeHeroi + " do nível " + nivel[6]);
 } else if (XPHeroi >10000) {
-  console.log ("A heroína é " + nomeHeroi + " do nível " + + nivel[7]);
+  console.log ("A heroína é " + nomeHeroi + " do nível " + nivel[7]);
 }
