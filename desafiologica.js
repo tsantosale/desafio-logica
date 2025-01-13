@@ -3,7 +3,7 @@ let XPHeroi = 5000
 let nivel = ["Ferro", "Bronze", "Prata", "Ouro", "Platina", "Ascendente", "Imortal", "Radiante"]
 
 if(XPHeroi <1000){
-  console.log("A heroína é " + nomeHeroi + " do nível " + + nivel[0]);
+  console.log("A heroína é " + nomeHeroi + " do nível " + nivel[0]);
 } else if ((XPHeroi >1000) && (XPHeroi <=2000)) {
   console.log ("A heroína é " + nomeHeroi + " do nível " + nivel[1]);
 } else if ((XPHeroi >2000) && (XPHeroi <=5000)) {
